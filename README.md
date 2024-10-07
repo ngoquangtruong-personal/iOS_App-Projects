@@ -1,5 +1,5 @@
-# iOS App Journey
-This repository contains the iOS app I have developed throughout my journey learning iOS app development. Each project serves as part of my learning process and skill-building in Swift programming. Through these projects, I practice and apply what I’ve learned to create educational and entertaining applications. The goal of this repository is to document my progress and showcase the development of my iOS programming abilities across various topics and projects.
+# iOS Apps Journey
+This repository contains the iOS apps I have developed throughout my journey learning iOS app development. Each project serves as part of my learning process and skill-building in Swift programming. Through these projects, I practice and apply what I’ve learned to create educational and entertaining applications. The goal of this repository is to document my progress and showcase the development of my iOS programming abilities across various topics and projects.
 ## [The Complete iOS App Development Bootcamp](https://www.udemy.com/share101WsW3@L4AiDap_LWHfPfs2b7D52ZYMeGJxMU4KGbCZ_9skj0tzqMulwxlvD1trlxAVT2wabw==/) course on [Udemy](https://www.udemy.com).
 - [I Am Rich](https://github.com/ngoquangtruong-personal/iOS_App-Projects/tree/main/I_Am_Rich)
 - [I Am Poor](https://github.com/ngoquangtruong-personal/iOS_App-Projects/tree/main/I_Am_Poor)
